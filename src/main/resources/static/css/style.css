@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    font-family: monospace;
+}
+
+header{
+    background-color: chocolate;
+    padding: 20px;
+}
+
+header > h2{
+    color: #fff;
+}
+
+.container{
+    margin: auto;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    width: 60%;
+}
+
+.container > img{
+    width: 100%;
+}
+
